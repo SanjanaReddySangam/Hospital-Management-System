@@ -96,7 +96,6 @@ void mainmenu ()
 
     scanf("%i",&choose);
     switch(choose)
-    
     {
         case 1:
         addpatientrec();
