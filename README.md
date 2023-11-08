@@ -47,7 +47,3 @@ Contributions are welcome! If you find any bugs or want to improve the applicati
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the README according to your project's specific details and requirements. Make sure to include information about how to install and use the application, as well as any dependencies or prerequisites.
