@@ -1,8 +1,3 @@
-# Hospital-Management-System
-Sure, here is a sample README file for your GitHub repository:
-
----
-
 # Hospital Management System
 
 Hospital Management System is a simple console-based application written in C language. It allows users to manage patient records, view patients, and handle emergency situations in a hospital setting.
